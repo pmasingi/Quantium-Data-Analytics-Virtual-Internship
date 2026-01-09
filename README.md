@@ -4,5 +4,5 @@ This repository contains my solutions to the Quantium Data Analytics Virtual Int
 
 ## Task 1: Data Validation and Customer Insights
 * **Goal:** Analyze chip purchasing behavior to identify high-value customer segments.
-* **Key Tools:** Python (Pandas, Matplotlib, Seaborn).
+* **Key Tools:** Python (Pandas, Matplotlib).
 * **Findings:** Identified "Mainstream Young Singles/Couples" as a target segment, specifically preferring 175g Kettle brand chips.
